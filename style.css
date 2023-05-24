@@ -1,0 +1,36 @@
+body{
+    background: black;
+    margin: 0;
+}
+div{
+    box-sizing: border-box;
+}
+header{ 
+    background: white;
+    padding: 10px;
+}
+header h1{
+     margin: 0;
+    }
+div.post{
+    background: white;
+    margin-top: 50px;    
+}
+div.post-header{
+    display: block;
+}
+div.post img{
+    width: 100%;
+}
+
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.post span{
+    padding: 10px;
+}
+div.container{ 
+    width: 600px;
+     margin: auto;
+    }
